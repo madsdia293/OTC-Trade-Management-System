@@ -1,4 +1,4 @@
-# Trade Portfolio Management System
+# OTC Trade Management System
 
 This Trade Portfolio Management System is a Python implementation that allows you to manage a collection of trades and calculate their present value and profit and loss (P&L).
 
@@ -13,9 +13,23 @@ This Trade Portfolio Management System is a Python implementation that allows yo
 
 ## Getting Started
 
-To get started with the Trade Portfolio Management System, follow these steps:
+To get started with the OTC Trade Management System, follow these steps:
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/trade-portfolio-management.git
+   git clone https://github.com/madsdia293/otc-trade-management-system.git
+   
+2. Navigate to the project directory:
+   
+   cd otc-trade-management-system
+   
+3. Install the required dependencies. Ensure that you have Python (version 3.11) and pip installed. Then run:
+
+   pip install -r requirements.txt
+   
+4. Open the main.py file and modify it according to your trade requirements.
+
+5. Run thr code:
+
+   python main.py
