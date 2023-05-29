@@ -33,3 +33,13 @@ To get started with the OTC Trade Management System, follow these steps:
 5. Run thr code:
 
    python main.py
+ 
+ 
+## Steps left to finish:  
+   
+- Add additional trade attributes such as trade date, settlement date, trade type, etc.
+- Implement data persistence by storing trades and portfolios in a database.
+- Integrate with external APIs (polygon.io) for real-time market data.
+- Integrate with external APIs (exchangeratesapi.io) for currency exchange rate data.
+- Implement risk calculations and risk metrics.
+- Add a user interface for easier interaction and visualization of trade and portfolio data.
